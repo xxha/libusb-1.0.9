@@ -1,0 +1,52 @@
+libusb_1_0_la-threads_posix.lo libusb_1_0_la-threads_posix.o:  \
+ os/threads_posix.c os/threads_posix.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/pthread.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/features.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/sys/cdefs.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/wordsize.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/sched.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/types.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../lib/gcc/arm-none-linux-gnueabi/4.1.2/include/stddef.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/typesizes.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/time.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/sched.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/time.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/signal.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/sigset.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/pthreadtypes.h \
+  /home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/setjmp.h
+
+os/threads_posix.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/pthread.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/features.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/sys/cdefs.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/wordsize.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/sched.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/types.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../lib/gcc/arm-none-linux-gnueabi/4.1.2/include/stddef.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/typesizes.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/time.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/sched.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/time.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/signal.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/sigset.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/xxha/cross_compile/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin/../arm-none-linux-gnueabi/sysroot/usr/include/bits/setjmp.h:
